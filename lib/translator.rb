@@ -22,7 +22,7 @@ def get_japanese_emoticon(emoticon_file, emoticon)
   emoticons = load_library(emoticon_file)
   japanese_emoticons = emoticons['get_emoticon'][emoticon]
   
-  if 
+  japanese_emoticons ? 
  
 end
 
