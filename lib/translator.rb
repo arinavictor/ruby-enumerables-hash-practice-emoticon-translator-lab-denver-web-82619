@@ -8,7 +8,8 @@ def load_library(emoticons_file)
   emojis = {'get_meaning' => {}, 'get_emoticon' => {}
   
   emoticons.each do |meaning, value|
-    english 
+    english = value[0]
+    japanese = value[1]
   
 end
 
