@@ -18,7 +18,7 @@ end
 emojis
 end
 
-def get_japanese_emoticon
+def get_japanese_emoticon(./lib/emoticons.yml")
   # code goes here
 end
 
